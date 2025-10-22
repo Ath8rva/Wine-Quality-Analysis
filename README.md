@@ -300,7 +300,6 @@ For questions, issues, or suggestions:
 1. Check the documentation in the `docs/` folder
 2. Review the FAQ section below
 3. Open an issue on GitHub
-4. Contact the development team
 
 ## ❓ FAQ
 
